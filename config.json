@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routervonnect",
+        "uuid": 3800104,
+        "checksum": "s19udf"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
